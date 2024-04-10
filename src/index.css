@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background: #348F6C;
+}
+
+.main {
+position: fixed;
+left: 0;
+top: 0;
+bottom: 0;
+}
